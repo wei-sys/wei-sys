@@ -1,4 +1,7 @@
-### Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&lines=(%E1%97%9C+%E2%80%B8+%E1%97%9C);宅技术真的能拯救世界)](https://git.io/typing-svg)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wei-sys&show_icons=true&count_private=true)
 
 <!--
 **wei-sys/wei-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
